@@ -1,3 +1,9 @@
+mx-iso-template (20.10.05) mx; urgency=medium
+
+  * adjust gfxpayload
+
+ -- fehlix <fehlix@mxlinux.org>  Wed, 14 Oct 2020 17:36:52 -0400
+
 mx-iso-template (20.10.04) mx; urgency=medium
 
   * add splasht to default params 
